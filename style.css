@@ -1,0 +1,17 @@
+body{
+    font-family: 'Pirata One', cursive;
+}
+h1{font size: 50px;
+}
+.name-highlight{
+    color: rgb(10, 190, 49);
+}
+.half-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
